@@ -1,4 +1,6 @@
-# Project4
+Project4
+================
+
 
 ## 사례연구 4에 대해서
 
@@ -14,3 +16,4 @@
 ## [wisc.csv](https://github.com/Youuuuj/Project4/tree/main/%EC%82%AC%EB%A1%80%EC%97%B0%EA%B5%AC4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B/wisc.csv)
 위스콘신 유방암 데이터 셋는 종양의 크기, 모양 등의 다양한 속성 값을 기반으로
 해당 종양이 악성인지 양성인지를 분류한 데이터 셋.
+
